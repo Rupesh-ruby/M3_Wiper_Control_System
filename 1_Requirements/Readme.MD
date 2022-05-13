@@ -1,5 +1,5 @@
 
-## Requriments
+## REQUIREMENTS
 
 #  About the project WCS
 ## Description
