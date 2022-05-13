@@ -56,7 +56,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation and deoxygen document
 `4_TestCases`      |test plans and procedures
 `5_Report`         |Document consisting the evaluation sheet
-`6_Output`         | Output images and Videos
+`6_Output`         | Output images 
 
 ## Integrated Tools to GitHub
 *  [Codacy](https://www.codacy.com/)
