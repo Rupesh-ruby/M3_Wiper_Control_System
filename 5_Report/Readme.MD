@@ -116,7 +116,7 @@ D-BUS This transport associates the databus of the Cortex®-M4 with FPU to the 6
 
 S-BUS This transport interfaces the framework transport of the Cortex®-M4 with FPU center to a BusMatrix. This transport is utilized to get to information situated in a fringe or in SRAM. Directions may likewise be brought on this transport (less productive than ICode). The objectives of this transport are the inward SRAM1, SRAM2 and SRAM3, the AHB1 peripherals including the APB peripherals, the AHB2 peripherals and the outside recollections through the FSMC/FMC.
 
-So guidelines and information use I-transport and D-transport individually, All the other fringe utilizes System transport. The Cortex-M4 processor contains three outside Advanced High-execution Bus (AHB)- Lite transport connection point and one Advanced Peripheral Bus (APB) interface. The GPIOs are associated with AHB1 transport which has a most extreme speed of 150Mhz and is isolated into two transports as APB1 and APB2. APB1 runs at 42Mhz(max) and APB2 runs at 82Mhz(max). The various peripherals like SPI, UART, TIMERs, ADCs, DACs, and so on are associated with either APB1/APB2 transports. Also, the AHB2(168Mhz max) is associated with Camera and USB OTG interfaces, AHB3 is associated with External memory regulator.
+
 
 # OUTPUT IMAGES:
 1.user button and hold it for two seconds
