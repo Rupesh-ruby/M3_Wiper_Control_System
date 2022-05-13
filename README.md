@@ -13,7 +13,7 @@
  position this is the new wiper system behind the wiper arm. This proposed wiper system's principle is comparable to those of other existing 
  conventional wipers.
 
-![image](https://user-images.githubusercontent.com/101585225/167920751-00b5053e-5bbe-4dd1-9497-12b6be0975d1.png)              ![image](https://user-images.githubusercontent.com/101585225/167920843-8d7377ca-7076-4646-b4c8-b8b2078db6bb.png)
+
 
 ## Guidelines
 * Use STM32cube IDE software for simulation purpose and for coding purpose use the visual studio code.
@@ -34,21 +34,7 @@
 ### ANALYSIS
 
 
-### BUILD-LINUX
 
-[![Build CI -Linux](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build_linux.yml)
-
-### BUILD WINDOWS
-
-[![Build CI - Windows](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Abiramikoperundevi/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build-Windows.yml)
-
-### VALGRIND
-
-[![Valgrind](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Valgrind.yml)
-
-### CPPCHECK ACTION
-
-[![cppcheck-action](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cpp%20check.yml)
 
 ### GIT INSPECTOR
 yml)
