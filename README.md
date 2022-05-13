@@ -27,10 +27,12 @@
 
 
 ### CODIGA STATIC ANALYSIS
+# Code Quality Score
+![code quality score](https://api.codiga.io/project/32913/score/svg)
 
-![Code Quality score](https://api.codiga.io/project/33385/score/svg)
 
-![Code Score](https://api.codiga.io/project/33385/status/svg)
+# Code Grade
+![code grade](https://api.codiga.io/project/32913/status/svg)
 ### ANALYSIS
 
 
