@@ -39,11 +39,26 @@
 
 
 ### ANALYSIS
+[![cppcheck-action](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/cppcheck-action.yml)
+
+### Valgrind 
+[![Valgrind](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Valgrind.yml)
+
+### cppcheck action
+[![CI](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/CI.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/CI.yml)
+
+### Build-Linux
+[![Build CI -Linux](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Bulid_Linux.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Bulid_Linux.yml)
+
+### Build-Windows
+[![Build CI - Windows](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/Build_Windows.yml)
 
 
 
 
 ### GIT INSPECTOR
+
+[![Contribution Check - Git Inspector](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Rupesh-ruby/M3_Wiper_Control_System/actions/workflows/git_inspector.yml)
 
 
 
